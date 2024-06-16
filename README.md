@@ -34,16 +34,16 @@ The setup wizard will open. Click "Next" to proceed.
 
 Accept the License Agreement:
 Read through the license agreement. If you agree, select "I accept the agreement" and click "Next".
-
+![screenshot](<Screenshot (2893).png>)
 Select Installation Location:
 Choose the destination folder for installation. The default location is usually fine. Click "Next".
 
 Select Additional Tasks:
 Select additional tasks such as creating a desktop icon and adding VS Code to the PATH. Click "Next".
-
+![screenshot](<Screenshot (2894).png>)
 Install Visual Studio Code:
 Review your setup choices and click "Install" to start the installation.
-
+![screenshot](<Screenshot (2895).png>)
 Complete the Installation:
 After installation is complete, you will see a final screen. To launch Visual Studio Code immediately, check "Launch Visual Studio Code". Click "Finish".
 
