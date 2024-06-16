@@ -70,8 +70,9 @@ Enable code formatting on save for consistent code style. Go to File > Preferenc
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
    The Visual Studio Code (VS Code) user interface is designed to be intuitive and customizable. Here are the main components and their purposes:
 
-1. Activity Bar
+(a) Activity Bar
 Location: Left side of the window
+![screenshot](<Screenshot (2896).png>)
 
 Purpose:
 
@@ -83,18 +84,18 @@ Source Control: Integrates with version control systems like Git.
 Run and Debug: Provides access to debugging tools and configurations.
 Extensions: Allows you to browse and install extensions to enhance VS Code.
 
-2. Side Bar
+(b) Side Bar
 Location: To the right of the Activity Bar
-
+![screenshot](<Screenshot (2897).png>)
 Purpose:
 
 The Side Bar displays contextual information and tools based on the active activity selected in the Activity Bar. For example:
 Explorer View: Shows the directory structure of your workspace, allowing you to open and manage files and folders.
 Source Control View: Shows the status of your version control system, with options to commit changes, view diffs, and manage branches.
 
-3. Editor Group
+(c) Editor Group
 Location: Center of the window
-
+![screenshot](<Screenshot (2899).png>)
 Purpose:
 
 The Editor Group is where you write and edit your code. You can open multiple files side-by-side or in a grid layout.
@@ -102,9 +103,9 @@ Tabs: Each open file is represented by a tab at the top of the Editor Group. You
 Split Editor: You can split the editor horizontally or vertically to view and edit multiple files simultaneously.
 IntelliSense: Provides code completion, parameter info, quick info, and member lists to enhance coding productivity.
 
-4. Status Bar
+(d) Status Bar
 Location: Bottom of the window
-
+![screenshot](<Screenshot (2900).png>)
 Purpose:
 
 The Status Bar displays information about the current workspace and the active file. It provides quick access to common tasks and settings:
