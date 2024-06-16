@@ -105,7 +105,7 @@ IntelliSense: Provides code completion, parameter info, quick info, and member l
 
 (d) Status Bar
 Location: Bottom of the window
-![screenshot](<Screenshot (2900).png>)
+![screenshot](<Screenshot (2903).png>)
 Purpose:
 
 The Status Bar displays information about the current workspace and the active file. It provides quick access to common tasks and settings:
